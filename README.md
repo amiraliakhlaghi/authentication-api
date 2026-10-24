@@ -1,6 +1,7 @@
 # 🔐 Authentication API
 **A production-ready REST API for user authentication built with Node.js, Express.js and MongoDB.**
 JWT authentication · Email OTP verification · Password reset · Rate limiting
+
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![Express](https://img.shields.io/badge/Express-5-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com) [![MongoDB](https://img.shields.io/badge/MongoDB-9-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![JWT](https://img.shields.io/badge/Auth-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
 
 ---
